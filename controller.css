@@ -3,8 +3,9 @@
     background: url(https://i.imgur.com/J6eKYbO.png);
     height: 598px;
     width: 806px;
-    /*    margin-left: -403px;
-        margin-top: -280px;*/
+    
+    margin-left: -403px;
+    margin-top: -280px;
 }
 
 .ds4.disconnected {
